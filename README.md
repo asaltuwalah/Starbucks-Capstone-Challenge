@@ -37,10 +37,10 @@ Here is the schema and explanation of each variable in the files:
   
   
  ### Problem Statement 
- I'm intrested to know what are the features that effcting customer decisian to respons to starbucks offers.Therfoer, I built multible models such as KNN, Random Forest and   Decision Tree to predict whether the new customers will responds to starbucks offers or not. 
+The purpose of this project would be to see how various demographic groups respond to the offers and to seek to forecast whether or not a consumer would responds to Starbucks offers.
   
  ### Metrics
-  I used both Accurcy and F1-score. I used F1-score since it is a weighted average of the precision and recall metrics
+ For measuring the performance of models I used the accuracy score for each models to see how accurate are the models.
   
   
   
