@@ -1,12 +1,21 @@
 # Starbucks-Capstone-Challenge
 
+### Libraries used in the project
+- pandas
+- numpy
+- math
+- json
+- sklearn
+- matplotlib
+- seaborn
+
 ### About Datasets
 
 The data is contained in three files:
 
- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.) <br>
- profile.json - demographic data for each customer <br>
- transcript.json - records for transactions, offers received, offers viewed, and offers completed
+- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.) <br>
+- profile.json - demographic data for each customer <br>
+- transcript.json - records for transactions, offers received, offers viewed, and offers completed
 
 Here is the schema and explanation of each variable in the files:
 
@@ -41,7 +50,23 @@ The purpose of this project would be to see how various demographic groups respo
   
  ### Metrics
  For measuring the performance of models I used the accuracy score for each models to see how accurate are the models.
-  
-  
-  
+ 
+
+### Summary of the project
+ 
+I was interested to know what are the features that effecting customer decision to response to Starbucks offers. 
+I built multiple models like: <br>
+ - KNN
+ - Random Forest 
+ - Decision Tree 
+ 
+I used these algorethoms to predict whether the new customers will responds to Starbucks offers or not.
+ 
+Where the best model accuracy was Decision tree with 77% accuracy.
+ 
+ 
+### Acknowledgement
+ 
+- Udacity for providing such a complete Data Science Nanodegree Program
+- Starbucks for providing the datasets
   
