@@ -59,6 +59,7 @@ I built multiple models like: <br>
  - KNN
  - Random Forest 
  - Decision Tree 
+ - Random Forest 
  
 I used these algorethoms to predict whether the new customers will responds to Starbucks offers or not.
  
